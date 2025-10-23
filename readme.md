@@ -1,12 +1,12 @@
 # English version:
 
 ## Generally introduction:
-  this project can be ued to recognize bikes' photos,which can uitilze CUDA to accelerate the project.
-  After using data to train the module, this module can judge a photo whether it is a bike or not.Simultaneously,the data can be replace by ohter kind of thins because the data come from CLFAR,which includes various things(the detail can be seen in the data part below) .
+  this project can be ued to recognize bikes' photos,which can utilize CUDA to accelerate the project.
+  After using data to train the module, this module can judge a photo whether it is a bike or not.Simultaneously,the data can be replace by ohter kind of things because the data come from CIFAR,which includes various things(the detail can be seen in the data part below) .
 
 ## training data
-the training data come from CLFAR,which includes CLFAR-10 and CLFAR-100. 
-### CLFAR-10:
+the training data come from CIFAR,which includes CIFAR-10 and CIFAR-100. 
+### CIFAR-10:
 #### Core Dataset Information​Number of Classes
 10 mutually exclusive object categories (6,000 images per class, totaling 60,000 images).
 #### ​Image Dimensions
